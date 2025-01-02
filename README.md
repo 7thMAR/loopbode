@@ -25,3 +25,5 @@ $a_{i}=\pm1, \pm0.5$
   
 ## Principle
 All the transfer function of a real system has the real-number coefficients. Therefore, its numerator and denominator can be converted to the multiplication of 1-order and 2-order polynomial of `s`, which means all real system can be converted to the cascode of 1-order and 2-order systems. 
+
+To be continuous...
